@@ -1,0 +1,20 @@
+# To Do
+- Create User
+  - POST Req
+  - JSON Req body
+  - URL --> /users
+- Get User
+  - GET Req
+  - ID in URL
+  - URL --> /users/id
+- Create Post
+  - Post Req
+  - JSON Req body
+  - URL --> /posts
+- Get a post
+  - GET Req
+  - ID in URL
+  - URL --> /posts/id
+- Get all posts of user
+  - GET Req
+  - URL --> /posts/users/id
